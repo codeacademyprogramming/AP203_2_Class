@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\bin\Debug\netcoreapp3.1\Class.exe
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\bin\Debug\netcoreapp3.1\Class.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\bin\Debug\netcoreapp3.1\Class.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\bin\Debug\netcoreapp3.1\Class.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\2. 10-03-2022\Class\Class\obj\Debug\netcoreapp3.1\Class.genruntimeconfig.cache
